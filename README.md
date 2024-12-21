@@ -26,3 +26,4 @@ The extension will now be installed and should appear in your browser toolbar or
 
 Thank you for using our Chrome extension!
 
+Go to Avatar tab to enjoy full Avatar canon
