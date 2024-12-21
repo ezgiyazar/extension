@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "HTML Modifier Extension",
+    "version": "1.0",
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png",
+       "225": "icon.png"
+      },
+    "description": "Automatically modifies HTML on specific pages.",
+    "permissions": [
+        "scripting"
+    ],
+    "host_permissions": [
+        "https://www.scribd.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.scribd.com/*"
+            ],
+            "js": [
+                "content-script.js"
+            ]
+        }
+    ]
+}
