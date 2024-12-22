@@ -26,15 +26,6 @@
 ## Graphic novel trilogies
 
 <details>
-  <summary>'- **Avatar: The Last Airbender – The Promise**'</summary>
-  <ul>
-   - [Part I](https://www.scribd.com/document/251838799/Avatar-the-Last-Airbender-The-Promise-Part-1) 
-   - [Part II](https://www.scribd.com/document/551841349/Avatar-The-Last-Airbender-The-Promise-Part-2) 
-  - [Part III](https://www.scribd.com/document/675885673/Avatar-The-Last-Airbender-03-The-Promise-Part-3)
-  </ul>
-</details>
-
-<details>
   <summary><b>Avatar: The Last Airbender – The Promise</b></summary>
 
   - [Part I](https://www.scribd.com/document/251838799/Avatar-the-Last-Airbender-The-Promise-Part-1)
