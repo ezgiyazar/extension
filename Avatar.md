@@ -24,6 +24,14 @@
 - [**The Legend of Korra: Beach Wars**](https://www.scribd.com/document/713744778/Avatar-The-Legend-of-Korra-FCBD-2022-Beach-Wars-PDF)
 
 ## Graphic novel trilogies
+<details>
+  <summary>- **Avatar: The Last Airbender – The Promise**</summary>
+  <ul>
+    <li> - [Part I](https://www.scribd.com/document/251838799/Avatar-the-Last-Airbender-The-Promise-Part-1)</li>
+    <li>  - [Part II](https://www.scribd.com/document/551841349/Avatar-The-Last-Airbender-The-Promise-Part-2)</li>
+    <li> - [Part III](https://www.scribd.com/document/675885673/Avatar-The-Last-Airbender-03-The-Promise-Part-3)</li>
+  </ul>
+</details>
 - **Avatar: The Last Airbender – The Promise**
   - [Part I](https://www.scribd.com/document/251838799/Avatar-the-Last-Airbender-The-Promise-Part-1)
   - [Part II](https://www.scribd.com/document/551841349/Avatar-The-Last-Airbender-The-Promise-Part-2)
