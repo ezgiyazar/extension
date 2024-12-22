@@ -34,38 +34,77 @@
   </ul>
 </details>
 
-- **Avatar: The Last Airbender – The Promise**
+<details>
+  <summary><b>Avatar: The Last Airbender – The Promise</b></summary>
+
   - [Part I](https://www.scribd.com/document/251838799/Avatar-the-Last-Airbender-The-Promise-Part-1)
   - [Part II](https://www.scribd.com/document/551841349/Avatar-The-Last-Airbender-The-Promise-Part-2)
   - [Part III](https://www.scribd.com/document/675885673/Avatar-The-Last-Airbender-03-The-Promise-Part-3)
-- **Avatar: The Last Airbender – The Search**
+
+</details>
+
+<details>
+  <summary><b>Avatar: The Last Airbender – The Search</b></summary>
+
   - [Part I](https://www.scribd.com/document/448785935/Avatar-the-Last-Airbender-The-Search-Part-1)
   - [Part II](https://www.scribd.com/document/627593554/Avatar-the-Last-Airbender-the-Search-Part-2)
   - [Part III](https://www.scribd.com/document/628888279/Avatar-The-Last-Airbender-The-Search-Part-3)
-- **Avatar: The Last Airbender – The Rift**
+
+</details>
+
+<details>
+  <summary><b>Avatar: The Last Airbender – The Rift</b></summary>
+
   - [Part I](https://www.scribd.com/document/320020341/Avatart-the-Last-Airbender-The-Rift-Part-1)
   - [Part II](https://www.scribd.com/document/675886431/Avatar-The-Last-Airbender-08-The-Rift-Part-2)
   - [Part III](https://imgur.com/gallery/avatar-last-airbender-rift-part-3-ITd1F)
-- **Avatar: The Last Airbender – Smoke and Shadow**
+
+</details>
+
+<details>
+  <summary><b>Avatar: The Last Airbender – Smoke and Shadow</b></summary>
+
   - [Part I](https://www.scribd.com/document/473351463/Smoke-and-Shadow-part-1)
   - [Part II](https://www.scribd.com/document/473351523/Smoke-and-Shadow-part-2)
   - [Part III](https://www.scribd.com/document/473351818/Smoke-and-Shadow-part-3)
-- **Avatar: The Last Airbender – North and South**
+
+</details>
+
+<details>
+  <summary><b>Avatar: The Last Airbender – North and South</b></summary>
+
   - [Part I](https://www.scribd.com/document/473351863/North-and-South-part-1)
   - [Part II](https://www.scribd.com/document/473351953/North-and-South-part-2)
   - [Part III](https://www.scribd.com/document/473352052/North-and-South-part-3)
-- **Avatar: The Last Airbender – Imbalance**
+
+</details>
+
+<details>
+  <summary><b>Avatar: The Last Airbender – Imbalance</b></summary>
+
   - [Part I](https://www.scribd.com/document/551841650/Avatar-the-Last-Airbender-Imbalance-Part-One)
   - [Part II](https://www.scribd.com/document/551841618/Avatar-the-Last-Airbender-Imbalanance-Part-Two)
   - [Part III](https://www.scribd.com/document/473353676/2019-Imbalance-part-3-pdf)
-- **The Legend of Korra: Turf Wars**
+
+</details>
+
+<details>
+  <summary><b>The Legend of Korra: Turf Wars</b></summary>
+
   - [Part I](https://www.scribd.com/document/474398229/Turf-Wars-part-1)
   - [Part II](https://www.scribd.com/document/474398345/Turf-Wars-part-2)
   - [Part III](https://www.scribd.com/document/474659036/Turf-Wars-part-3)
-- **The Legend of Korra: Ruins of the Empire**
+
+</details>
+
+<details>
+  <summary><b>The Legend of Korra: Ruins of the Empire</b></summary>
+
   - [Part I](https://www.scribd.com/document/681016941/01-the-Legend-of-Korra-Ruins-of-the-Empire-Part-One-2019)
   - [Part II](https://www.scribd.com/document/681016929/02-the-Legend-of-Korra-Ruins-of-the-Empire-Part-Two-2019)
   - [Part III](https://www.scribd.com/document/681016930/03-the-Legend-of-Korra-Ruins-of-the-Empire-Part-Three-2019)
+
+</details>
 
 ## Graphic novel one-shots
 - [**Avatar: The Last Airbender – Katara and the Pirate's Silver**](https://www.scribd.com/document/700650765/Avatar-The-Last-Airbender-Katara-and-the-Pirates-Silver-2020-Digital-Son-of-Ultron-Empire)
